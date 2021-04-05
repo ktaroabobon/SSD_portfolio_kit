@@ -3,7 +3,11 @@ SSD_portfolio_kit
 
 SSD判定のアプリです。犬と猫の種類が判定できます。
 
-判定可能な犬と猫の種類は以下の通りです。
+### 例）
+
+![predict_dog01](https://user-images.githubusercontent.com/52523218/113596446-481afb80-9675-11eb-959c-885a1fcc617c.jpg)
+
+また、判定可能な犬と猫の種類は以下の通りです。
 
 ```
 犬種（計２５種）
@@ -51,7 +55,7 @@ SSD判定のアプリです。犬と猫の種類が判定できます。
 ## Installation
 
 ```
-git clone
+git clone https://github.com/ktaroabobon/SSD_portfolio_kit.git
 cd SSD_portfolio
 pip install -r requirements.txt
 ```
