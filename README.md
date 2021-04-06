@@ -82,7 +82,7 @@ file_name = dog01.jpg
 3. プロジェクトディレクトリ下に移動してmain.pyを実行します。
 
 ```
-cd SSD_portfolio
+cd SSD_portfolio_kit
 python main.py
 ```
 
